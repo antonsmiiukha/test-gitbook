@@ -2,7 +2,7 @@
 icon: hand-wave
 ---
 
-# Welcome V1 updated from github
+# Welcome V1 updated from github ...
 
 Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
