@@ -15,9 +15,15 @@ You'll see some of the best parts of GitBook in action — and find help on how 
 
 {% embed url="https://files.crmoz.com/external/file/lqwm71fa2a475c1b645f18429a1cd29ea453a" %}
 
-{% embed url="https://files.crmoz.com/file/lqwm71fa2a475c1b645f18429a1cd29ea453a" %}
+{% embed url="https://files.crmoz.com/external/2fa91c84e2db5317f9923d79e595f2593bb37b9c3c067dc4341e7cf4c5624491/download" %}
 
 Ця зміна має потрапити в V3
+
+```
+<iframe src="https://files.crmoz.com/embed/lqwm71fa2a475c1b645f18429a1cd29ea453a?toolbar=false&appearance=light&themecolor=green" scrolling="no" frameborder="0" allowfullscreen="true" width="800" height="450" title="Embed code"></iframe>
+```
+
+{% embed url="https://files.crmoz.com/embed/lqwm71fa2a475c1b645f18429a1cd29ea453a?appearance=light&themecolor=green&toolbar=false" %}
 
 ### Jump right in
 
