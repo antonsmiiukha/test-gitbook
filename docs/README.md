@@ -1,17 +1,52 @@
 ---
+description: UPDATED
 icon: hand-wave
 metaLinks: {}
 ---
 
-# Welcome V2 - test
+# Welcome V2 - test UPDATED
+
+UPDATED
+
+
+
+
 
 Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation....
 
 You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.123213123213123
 
+\[test]
 
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmyvRsKFHSBUQn5Aby4Ub%2Fuploads%2FmofMu8ozPnd25EcQjBSS%2FScreenRecording_04-24-2026%2009-12-19_1.MP4?alt=media&token=e1db6791-87d6-47c6-9919-6f12a64a4b14" %}
+
+\[test]
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmyvRsKFHSBUQn5Aby4Ub%2Fuploads%2FmofMu8ozPnd25EcQjBSS%2FScreenRecording_04-24-2026%2009-12-19_1.MP4?alt=media&token=e1db6791-87d6-47c6-9919-6f12a64a4b14" %}
+
+[https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmyvRsKFHSBUQn5Aby4Ub%2Fuploads%2FmofMu8ozPnd25EcQjBSS%2FScreenRecording\_04-24-2026%2009-12-19\_1.MP4?alt=media\&token=e1db6791-87d6-47c6-9919-6f12a64a4b14](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmyvRsKFHSBUQn5Aby4Ub%2Fuploads%2FmofMu8ozPnd25EcQjBSS%2FScreenRecording_04-24-2026%2009-12-19_1.MP4?alt=media\&token=e1db6791-87d6-47c6-9919-6f12a64a4b14)
+
+{% file src=".gitbook/assets/ScreenRecording_04-24-2026 09-12-19_1.MP4" %}
+
+{% embed url="https://samplelib.com/mp4/sample-5s.mp4" %}
+
+{% embed url="https://files.crmoz.com/external/d71f4302e593d9afad0677789dd53112b287575cc03d71dc3ec0c3acff5d02e5" %}
+
+{% embed url="https://files.crmoz.com/external/file/lqwm71fa2a475c1b645f18429a1cd29ea453a" %}
+
+{% embed url="https://files.crmoz.com/external/2fa91c84e2db5317f9923d79e595f2593bb37b9c3c067dc4341e7cf4c5624491/download" %}
 
 Ця зміна має потрапити в V3
+
+```
+<iframe src="https://files.crmoz.com/embed/lqwm71fa2a475c1b645f18429a1cd29ea453a?toolbar=false&appearance=light&themecolor=green" scrolling="no" frameborder="0" allowfullscreen="true" width="800" height="450" title="Embed code"></iframe>
+```
+
+{% embed url="https://files.crmoz.com/embed/lqwm71fa2a475c1b645f18429a1cd29ea453a?appearance=light&themecolor=green&toolbar=false" %}
+
+{% embed url="https://files.crmoz.com/external/ef784dc5204a69e0b80d5c9cf1355c8111202b83b9db627bb40d36dce9fbc970/download?directDownload=true" %}
+
+{% embed url="https://files.crmoz.com/external/a9e42ecb09b42038fad09a179fda88d4e28cadece0ad4287740015ae3555b876" %}
 
 ### Jump right in
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome V2 - test](README.md)
+* [Welcome V2 - test UPDATED](README.md)
 
 ## Getting Started
 
