@@ -9,6 +9,8 @@ Welcome to the GitBook starter template! Here you'll get an overview of all the 
 
 You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.123213123213123
 
+{% file src=".gitbook/assets/ScreenRecording_04-24-2026 09-12-19_1.MP4" %}
+
 {% embed url="https://samplelib.com/mp4/sample-5s.mp4" %}
 
 {% embed url="https://files.crmoz.com/external/d71f4302e593d9afad0677789dd53112b287575cc03d71dc3ec0c3acff5d02e5" %}
@@ -23,9 +25,11 @@ You'll see some of the best parts of GitBook in action — and find help on how 
 <iframe src="https://files.crmoz.com/embed/lqwm71fa2a475c1b645f18429a1cd29ea453a?toolbar=false&appearance=light&themecolor=green" scrolling="no" frameborder="0" allowfullscreen="true" width="800" height="450" title="Embed code"></iframe>
 ```
 
-<iframe src="https://files.crmoz.com/embed/lqwm71fa2a475c1b645f18429a1cd29ea453a?autoplay=true&toolbar=true&appearance=light&themecolor=green" scrolling="no" frameborder="0" allowfullscreen="true" width="800" height="450" title="Embed code"></iframe>
-
 {% embed url="https://files.crmoz.com/embed/lqwm71fa2a475c1b645f18429a1cd29ea453a?appearance=light&themecolor=green&toolbar=false" %}
+
+{% embed url="https://files.crmoz.com/external/ef784dc5204a69e0b80d5c9cf1355c8111202b83b9db627bb40d36dce9fbc970/download?directDownload=true" %}
+
+{% embed url="https://files.crmoz.com/external/a9e42ecb09b42038fad09a179fda88d4e28cadece0ad4287740015ae3555b876" %}
 
 ### Jump right in
 
