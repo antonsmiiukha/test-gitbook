@@ -23,6 +23,8 @@ You'll see some of the best parts of GitBook in action — and find help on how 
 <iframe src="https://files.crmoz.com/embed/lqwm71fa2a475c1b645f18429a1cd29ea453a?toolbar=false&appearance=light&themecolor=green" scrolling="no" frameborder="0" allowfullscreen="true" width="800" height="450" title="Embed code"></iframe>
 ```
 
+<iframe src="https://files.crmoz.com/embed/lqwm71fa2a475c1b645f18429a1cd29ea453a?autoplay=true&toolbar=true&appearance=light&themecolor=green" scrolling="no" frameborder="0" allowfullscreen="true" width="800" height="450" title="Embed code"></iframe>
+
 {% embed url="https://files.crmoz.com/embed/lqwm71fa2a475c1b645f18429a1cd29ea453a?appearance=light&themecolor=green&toolbar=false" %}
 
 ### Jump right in
