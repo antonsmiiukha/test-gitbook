@@ -13,6 +13,9 @@ You'll see some of the best parts of GitBook in action — and find help on how 
 
 {% embed url="https://files.crmoz.com/external/d71f4302e593d9afad0677789dd53112b287575cc03d71dc3ec0c3acff5d02e5" %}
 
+{% embed url="https://files.crmoz.com/external/file/lqwm71fa2a475c1b645f18429a1cd29ea453a" %}
+
+{% embed url="https://files.crmoz.com/file/lqwm71fa2a475c1b645f18429a1cd29ea453a" %}
 
 Ця зміна має потрапити в V3
 
