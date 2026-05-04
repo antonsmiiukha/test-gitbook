@@ -9,7 +9,9 @@ Welcome to the GitBook starter template! Here you'll get an overview of all the 
 
 You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.123213123213123
 
+{% embed url="https://samplelib.com/mp4/sample-5s.mp4" %}
 
+{% embed url="https://files.crmoz.com/file/lqwm71fa2a475c1b645f18429a1cd29ea453a" %}
 
 Ця зміна має потрапити в V3
 
